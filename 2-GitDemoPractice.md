@@ -1,4 +1,4 @@
-This is the readme for the Demo
+This is the readme for the Demo on GitHub
 ===============================
 
 by Julianna Thurau
